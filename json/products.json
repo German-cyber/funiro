@@ -1,0 +1,71 @@
+{
+    "products":[
+        {
+            "id": 5,
+            "url": "#",
+            "title": "Grifo",
+            "text": "Nigth lamp",
+            "labes": "",
+            "image": "5",
+            "price": "1.500.000",
+            "priceOld":"",
+            "shareLink":"",
+            "likeLink": ""
+        },
+        {
+            "id": 6,
+            "url": "#",
+            "title": "Muggo",
+            "text": "Small mug",
+            "labes": [
+                {
+                    "type": "sale",
+                    "value": "-50%"
+                },
+                {
+                    "type": "new",
+                    "value": "New"
+                }
+            ],
+            "image": "6",
+            "price": "150.000",
+            "priceOld":"",
+            "shareLink":"",
+            "likeLink": ""
+        },
+        {
+            "id": 7,
+            "url": "#",
+            "title": "Pingky",
+            "text": "Cute bed set",
+            "labes": [
+                {
+                    "type": "sale",
+                    "value": "-50%"
+                }
+            ],
+            "image": "7",
+            "price": "7.000.000",
+            "priceOld":"14.000.000",
+            "shareLink":"",
+            "likeLink": ""
+        },
+        {
+            "id": 8,
+            "url": "#",
+            "title": "Potty",
+            "text": "Minimalist flower pot",
+            "labes": [
+                {
+                    "type": "new",
+                    "value": "New"
+                }
+            ],
+            "image": "8",
+            "price": "500.000",
+            "priceOld":"",
+            "shareLink":"",
+            "likeLink": ""
+        }
+    ]
+}
